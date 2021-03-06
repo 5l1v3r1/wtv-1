@@ -1,6 +1,6 @@
 ![Screenshot](/files/wtv.gif)
 
-# WTV
+# wtv
 
 #### README
 
